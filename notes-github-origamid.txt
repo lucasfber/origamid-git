@@ -1,0 +1,2 @@
+1. quando vc cria uma branch, ela só existe no repositorio local.
+
